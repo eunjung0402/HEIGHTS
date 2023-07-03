@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Monument';
+    src: url(../font/ABCMonumentGrotesk-Medium.woff) format('Web Open Font');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Monument';
+    src: url(../font/ABCMonumentGrotesk-Regular.woff) format('Web Open Font');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Monument';
+    src: url(../font/ABCMonumentGrotesk-Bold.woff) format('Web Open Font');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Noto Sans KR';
+    src: url(../font/NotoSansKR-Medium.otf) format('Open Type');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Noto Sans KR';
+    src: url(../font/NotoSansKR-Regular.otf) format('Open Type');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Noto Sans KR';
+    src: url(../font/NotoSansKR-Bold.otf) format('Open Type');
+    font-weight: bold;
+    font-style: normal;
+}

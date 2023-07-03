@@ -1,0 +1,71 @@
+.blind{
+    position: absolute;   
+    width: 1px;height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    margin: -1px;
+}
+.inner {
+    width: 100%;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+}
+.inner2 {
+    width: 50%;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+}
+.inner_flex {
+    display: flex;
+    justify-content: space-between;
+}
+.container p.name {
+    color: #999;
+}
+.container p.title {
+    font-size: 1rem;
+    font-weight: 600;
+}
+.container h2.title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 1.25rem 0;
+}
+.small_title {
+    font-size: 0.875rem;
+    padding-bottom: 1.5rem;
+    font-weight: bold;
+}
+.small_title .count {
+    color: #999;
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 0.3125rem;
+}
+.btn_box {
+    position: absolute;
+    top: 4px;
+    right: 0;
+}
+.btn_box .all_btn {
+    color: #999;
+    font-family: 'Noto Sans KR',sans-serif;
+    font-size: 0.75rem;
+    font-weight: 400;
+    border: solid 1px #eee;
+    border-radius: 0.25rem;
+    padding: 0.25rem 0.75rem;
+    line-height: 1.4;
+}
+h2.title .date {
+    color: #999;
+    font-size: 0.875rem;
+    margin-left: 0.5rem;
+    font-weight: 400;
+}
